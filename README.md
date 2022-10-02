@@ -7,7 +7,7 @@ Padma Sree here
 - 🎓 Doing Full Stack Web Developer program.
 - 🔭 Aspiring to be a part of developers community and offer sevices in the same filed.
 - 🌱 Enjoy gardening, yoga and cooking.
--->
+
 
 ## Technologies
 
