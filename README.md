@@ -1,16 +1,27 @@
-### Hi there 👋
+### Hei! 👋
 
-<!--
-**NPadmaSree/NPadmaSree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Padma Sree here 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👩🏻‍💻 Currently studying in [Business College Helsinki](https://github.com/HelsinkiBusinessCollege)
+- 🎓 Doing Full Stack Web Developer program.
+- 🔭 Aspiring to be a part of developers community and offer sevices in the same filed.
+- 🌱 Enjoy gardening, yoga and cooking.
 -->
+
+## Technologies
+
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+
+
+## Statistics 🚀
+
+![NPadmaSree's github stats](https://github-readme-stats.vercel.app/api?username=NPadmaSree&show_icons=true&theme=tokyonight). 
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=NPadmaSree&theme=tokyonight" alt="mystreak"/>. 
+
+
+![NpadmaSree's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NPadmaSreeR&theme=tokyonight&layout=compact). 
