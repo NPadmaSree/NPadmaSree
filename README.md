@@ -24,4 +24,4 @@ Padma Sree here
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=NPadmaSree&theme=tokyonight" alt="mystreak"/>. 
 
 
-![NpadmaSree's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NPadmaSreeR&theme=tokyonight&layout=compact). 
+![NpadmaSree's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NPadmaSree&theme=tokyonight&layout=compact). 
